@@ -51,4 +51,4 @@ Modelimiz aşağıdaki özellikleri kullanarak tahmin yapmaktadır:
 **Detaylı analiz için `Engagement_Analysis_Report.pdf` dosyasına göz atabilirsiniz.**
 
 ---
-*Bu proje Veri Tabanı Ödevi kapsamında hazırlanmıştır.*
+*Bu proje İstanbul Ticaret Üniversitesi-BIL460 Veri Tabanı dersinin projesi kapsamında hazırlanmıştır.*
