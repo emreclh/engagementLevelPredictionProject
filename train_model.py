@@ -20,7 +20,6 @@ try:
 
     print("2. Preprocessing Data...")
     # Hedef değişkeni ayır
-    # EngagementLevel sıralı bir değişken olabilir ama şimdilik kategorik olarak ele alalım
     le = LabelEncoder()
     df['EngagementLevel_Encoded'] = le.fit_transform(df['EngagementLevel'])
     
