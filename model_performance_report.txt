@@ -1,0 +1,24 @@
+1. Loading Data...
+2. Preprocessing Data...
+3. Training Model (Random Forest)...
+4. Evaluating Model...
+
+Model Accuracy Score:
+0.9058323966529287
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        High       0.92      0.87      0.89      2035
+         Low       0.91      0.87      0.89      2093
+      Medium       0.90      0.95      0.92      3879
+
+    accuracy                           0.91      8007
+   macro avg       0.91      0.89      0.90      8007
+weighted avg       0.91      0.91      0.91      8007
+
+
+Reports generated successfully:
+- model_performance_report.txt (This file)
+- confusion_matrix.png
+- feature_importance.png
