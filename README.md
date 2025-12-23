@@ -4,6 +4,7 @@ Bu proje, oyuncuların çevrimiçi oyunlardaki davranış verilerini kullanarak 
 
 ## 📌 Proje Özeti
 - **Veri Seti:** 40,034 oyuncunun davranış verileri (Yaş, Oyun Süresi, Satın Alma vb.)
+- **Kaynak:** [Predict Online Gaming Behavior Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset?resource=download)
 - **Hedef:** Oyuncunun bağlılığını `Low`, `Medium` veya `High` olarak sınıflandırmak.
 - **Model:** Random Forest Classifier
 - **Başarı Oranı:** %91 Doğruluk (Accuracy)
